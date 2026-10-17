@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+class Eligibility{
+    String name;
+    String gender;
+    static Mage=21;
+    static Fage=18;
+     void Eligibility(String name,string gender){
+if(gender==M){
+    if(age>=Mage){
+        System.out.println(name+"is eligible for marriage");
+ }
+}
+else if(gender==F){
+    if(age>=Fage){
+        System.out.println(name+"is eligible for marriage");
+
+    } 
+}
+        
+        
+     }
+
+
+}
